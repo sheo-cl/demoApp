@@ -1,4 +1,0 @@
-demoApp
-=======
-
-Application de démonstration
